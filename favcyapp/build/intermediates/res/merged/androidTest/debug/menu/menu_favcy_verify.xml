@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.iifm.favcy.favcyactivity.FavcyVerify">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>
+<!-- From: file:/home/yogesh/AndroidStudioProjects/codecanyon-14541101-eventhub/main_files/android/eventhub/favcyapp/src/main/res/menu/menu_favcy_verify.xml --><!-- From: file:/home/yogesh/AndroidStudioProjects/codecanyon-14541101-eventhub/main_files/android/eventhub/favcyapp/build/intermediates/bundles/debug/res/menu/menu_favcy_verify.xml -->

@@ -1,0 +1,62 @@
+
+{
+  "eventsDetails": {
+    "Actors": "",
+    "BannerURL": "https://in.bmscdn.com/Events/Mobile/ET00038307.jpg?dtm=20160208",
+    "CanUserRate": "N",
+    "Censor": "()",
+    "Director": "",
+    "EventCensor": "",
+    "EventCode": "ET00038307",
+    "EventIsGlobal": "N",
+    "EventMusic": "",
+    "EventReleaseDate": "Mar 10, 2016",
+    "EventSynopsis": "A Social Media and Digital Marketing Workshop that will cover the following:Traditional vs Digital MarketingMobile Marketing- SMS Marketing- Voice SMS- Short Codes- Long Codes- Missed Call ServiceEmail MarketingFacebook MarketingFacebook Ad Campaign ManagementLinkedIn MarketingDiscussion and analysis of relevant real-life scenarios and tips and tricks of the trade.A certification of Participation shall be provided by All India IT Association (Work related to Ministry of IT, Govt. of India)Note: Fee includes Lunch and Refreshments",
+    "EventTitle": "1 Day Workshop on Social Media & Digital Marketing ",
+    "EventType": "CT",
+    "EventVoice": "",
+    "EventWriter": "",
+    "Event_AvgRatings": "",
+    "Event_CriticsRatingsCount": "",
+    "Event_Message": "",
+    "Event_MessageTitle": "",
+    "Event_UserRatingsCount": "",
+    "Event_UserReviewCount": "",
+    "Event_bitIsTentativeReleaseDate": "0",
+    "EventifierID": "6713",
+    "FShareURL": "http://in.bookmyshow.com/events/1-Day-Workshop-on-Social-Media-Digital-Marketing/ET00038307",
+    "Genre": "Workshops",
+    "GenreArray": [
+      "Workshops"
+    ],
+    "ImageCode": "ET00038307",
+    "IsComingSoon": "N",
+    "Language": "Others",
+    "Length": "8 hrs ",
+    "ProducerCode": "",
+    "Ratings": "0",
+    "ReleaseDateCode": "20160310",
+    "Seq": "50",
+    "TrailerURL": "",
+    "arrDates": [
+      {
+        "EventCode": "ET00038307",
+        "ShowDateCode": "20160310",
+        "ShowDateDisplay": "Thursday, 10 Mar"
+      },
+      {
+        "EventCode": "ET00038307",
+        "ShowDateCode": "20160312",
+        "ShowDateDisplay": "Saturday, 12 Mar"
+      },
+      {
+        "EventCode": "ET00038307",
+        "ShowDateCode": "20160313",
+        "ShowDateDisplay": "Sunday, 13 Mar"
+      }
+    ],
+    "strMessage": ""
+  },
+  "poweredBy": "deVru",
+  "status": "200"
+}

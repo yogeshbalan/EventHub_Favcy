@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="simplenosql-0.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.colintmiller/simplenosql/0.5.1/bb2d3cb9662e0edf8ecea94a1566dd274f5da593/simplenosql-0.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.colintmiller/simplenosql/0.5.1/42a9fcdef19035bb967eb9ade45864135a11d7eb/simplenosql-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

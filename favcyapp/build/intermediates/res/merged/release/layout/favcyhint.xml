@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hint_listscreen_logo_relative_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c000"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/hint_listscreen_logo_txtVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <!-- android:background="@android:color/transparent" -->
+
+
+    <!-- android:background="#9000" -->
+
+    <TextView
+        android:id="@+id/hint_listscreen_logo_menuclosearrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       />
+
+    <TextView
+        android:id="@+id/hint_listscreen_screen_centre_txtVw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+    <!-- </LinearLayout> -->
+
+</RelativeLayout><!-- From: file:/home/yogesh/AndroidStudioProjects/codecanyon-14541101-eventhub/main_files/android/eventhub/favcyapp/src/main/res/layout/favcyhint.xml -->
